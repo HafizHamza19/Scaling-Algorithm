@@ -1,0 +1,5 @@
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Scaling\Scaling\bin\Debug\Scaling.exe.config
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Scaling\Scaling\bin\Debug\Scaling.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Scaling\Scaling\bin\Debug\Scaling.pdb
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Scaling\Scaling\obj\Debug\Scaling.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Scaling\Scaling\obj\Debug\Scaling.pdb
